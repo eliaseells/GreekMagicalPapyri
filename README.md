@@ -12,4 +12,4 @@ Leiden Papyri
 
 [PGM 62](http://hum.leidenuniv.nl/papyrologisch-instituut/online-tentoonstelling/tentoonstelling-k.html)
 
-[PDM 156](http://www.rmo.nl/collectie/zoeken?object=AMS+75+vel+2)
+[PGM/PDM?](http://www.rmo.nl/collectie/zoeken?object=AMS+75+vel+2)
