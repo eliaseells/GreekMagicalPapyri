@@ -11,3 +11,5 @@ Leiden Papyri
 [PGM 12-14](http://www.rmo.nl/collectie/zoeken?q=papyri&Afdeling=&Objectnaam=&Materiaal=&Periode=&Vindplaats=)
 
 [PGM 62](http://hum.leidenuniv.nl/papyrologisch-instituut/online-tentoonstelling/tentoonstelling-k.html)
+
+[PDM 156](http://www.rmo.nl/collectie/zoeken?object=AMS+75+vel+2)
